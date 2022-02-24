@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble and healing advice of Colonel Robert Overton, Governour of Hull, to Charles Lord Fleetwood, and General Monck, and all other inferiour officers of both armies in England and Scotland</title>
+            <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53586</idno>
+            <idno type="STC">Wing O637</idno>
+            <idno type="STC">ESTC R4509</idno>
+            <idno type="EEBO-CITATION">13081179</idno>
+            <idno type="OCLC">ocm 13081179</idno>
+            <idno type="VID">97232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble and healing advice of Colonel Robert Overton, Governour of Hull, to Charles Lord Fleetwood, and General Monck, and all other inferiour officers of both armies in England and Scotland</title>
+                  <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Livewell Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fleetwood, Charles, d. 1692.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  History, Military --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97232:1"/>
+            <pb facs="tcp:97232:1" rendition="simple:additions"/>
+            <p>THE Humble and Healing Advice of Collonel Robert Overton Governour of <hi>H<g ref="char:V">Ʋ</g>LL.</hi>
+            </p>
+            <p>TO CHARLES <hi>LORD</hi> FLEETWOOD, And <hi>General</hi> MONCK, And all other inferiour Officers of both Armies in <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Liverwell Chapman</hi> at the <hi>Crown</hi> in <hi>Poper-Head</hi> Alley, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97232:2"/>
+            <pb n="1" facs="tcp:97232:2"/>
+            <head>TO His Excellency <hi>Charls</hi> Lord <hi>Fleet<g ref="char:EOLhyphen"/>wood,</hi> and the Right Honourable General <hi>Monck,</hi> and all other Inferiour Officers of both Ar<g ref="char:EOLhyphen"/>mies in <hi>England</hi> and <hi>Scotland.</hi>
+            </head>
+            <head type="sub">The Humble Cautionary Chriſtian Exortatory, ſeaſonalle, Healing and unbyaſſed Repreſentation and Addreſſe of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollonel <hi>Ro<g ref="char:EOLhyphen"/>bert Overton,</hi> Governour of <hi>Kingſton</hi> upon <hi>Hull,</hi> a fel<g ref="char:EOLhyphen"/>low-ſervant with you in the Cauſe of God and his Country, and one who deſires to ſhun the effuſion of blood amongſt thoſe who (in the mideſt of many enemies) are imbarqued together in one Publique and Chriſtian Concern.</head>
+            <opener>
+               <salute>Right Honourable and beloved Brethren and fellow ſervants,</salute>
+            </opener>
+            <p>WHatever are our particular affection, inclinations and judgements, in reſpect of Forms and Conſti<g ref="char:EOLhyphen"/>tutions, Civill and Eccleſiaſtick; yet the mark we all aim at, and the race we profeſſe to run, is to ſerve the Lord, and to ſubmit to his Scepter, who is King of Kings, and Lord of Lords, and the onely Lawgiver (by the Decree and determination of Heaven) throughout the world; but alas, darkneſſe is ſo intermixed with our light, and ſelf is ſo interwoven with all our publique aſſaies and attempts, that Babel-like, our buildings are accompanied with nothing but confuſion and contempt, which makes the Nations abroad to ſcoff and ſcorn, and our enemies at home to rejoyce in hopes of our ruine: and the Lord himſelf who
+<pb n="2" facs="tcp:97232:3"/>waited to be gracious (but muſt be exalted in righteouſneſs, (is forced to ſhake and ſhake, overturn and overturn; and yet in much mercy to his people) becauſe no foundation is laid that either bears any proportion with what we profeſſe, or otherwiſe anſwer the ends of God, in that new Creation he is about to form throughout the whole Univerſe, by re<g ref="char:EOLhyphen"/>ſtoring of Judges as at the firſt, and Councellors as at the beginning, that righteouſneſſe may run down is a mighty ſtream, our Officers become peace, and our Exactors righ<g ref="char:EOLhyphen"/>teouſneſſe: In order to this, it hath pleaſed the Lord in the proſecution of his own purpoſe to poure us from Veſſel to Veſſel, and according to the propheſie of the laſt times (writ for our inſtruction; eſpecially, upon whom are the ends of the World) hath been overturning and overturn<g ref="char:EOLhyphen"/>ing, and will overturn, till he come whoſe Right it is: How this alarum of the ſon of <hi>David</hi> hath been ſounded in your ears by a faith full Remnant, I need nor reminde you; but what hath been the plain and poſitive providences of <hi>Jeho<g ref="char:EOLhyphen"/>va.</hi> I beſeech you ſeriouſly collect and review; there hath not one of the many changes we have paſſed through, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut it hath conveyed in it, either more directly or indirectly ſomething of ſpecial and effectuall tendency to the decay of the old, and increaſe of the new world; all the deſignes and contrivements of men, either of oppoſite principles or of oppoſite intereſt, the laſt (having rather wanted love to the Lord, then light in his work) have <hi>Dagon</hi>-like fallen before the intereſt of Chriſt and his people; and no wonder, for no weapon formed againſt either can proſper; upon this account, I will be hold to aſcert in the light of the Lord, that the Thrones of Biſhops, of the King, Parliaments and Protectors have been thrown down, and other principles and Intereſts wherein many good men have been engaged) have alſo obviated a directing doome; the Lord had once raiſed up a generation of men after ſome overturning, who in a meaſure of the power and ſpirit of <hi>Elias,</hi> were upon lay<g ref="char:EOLhyphen"/>ing the foundation (a glance there was at leaſt of the glory which ſhall be revealed,) of this reſtitution ſpoken of in ſcripture; but an Apoſtacy like the ſun under an Eclips interpoſed us, and the practical proſecution of that Refor<g ref="char:EOLhyphen"/>mation: I will not determinately aſcertain the cauſe, poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="3" facs="tcp:97232:3"/>that Aſſembly<g ref="char:punc">▪</g> had more the name and the ſhew than the ſubſtance and reallity of Chriſts Government: (for I judge as their convening together, reſpected the deſignes of ſome Inſtruments, they were miſchievouſly mixed for other ends) and probably we were not fitted and ſpirited for ſuch a diſpenſation under that Apoſtacy; the diſpleaſure of the Lord faced the followers of it in all their undertakings, till that ruine and deſtruction ſo threatned the revenge of Juſtice, that neceſſity forced us to face about, but like be<g ref="char:EOLhyphen"/>wildred <hi>Iſrael</hi> of old, we knew not where to pitch our Tents; at laſt, by the moſt general concurrance, the former famous long Parliament, in their beſt reduced capacity were judged the moſt apt expedient, at leaſt towards preſent ſecurity if not ſettlement; who were a while beating about the buſh; but though there be many pious, prudent and publick Pa<g ref="char:EOLhyphen"/>triots and ſpirits amongſt them; yet they were ſo inter<g ref="char:EOLhyphen"/>mixed with the late Court Creatures and Kingling Cham<g ref="char:EOLhyphen"/>pions, with perſons of very oppoſite principles; that nei<g ref="char:EOLhyphen"/>ther Chriſt, his Peoples, nor the Nations ends were likely to be anſwered: And I feare ſome were ſo miſled by prin<g ref="char:EOLhyphen"/>ciples of a perſecuting tendancy (though they may not o<g ref="char:EOLhyphen"/>therwiſe have that helliſh ſeed in their heart) for I cannot but honour the memory of many in that Aſſembly for the works ſake, wherein they have been made Inſtrumentall; that endeavours were not cloſely wanting to bring all to bow to their <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aal;</hi> and in order thereunto to wreſt the Sword forth out of their hands, who I hope, more than acci<g ref="char:EOLhyphen"/>dentally, or neceſſituouſly are ſure gaurd to Gods people againſt the ſpirit of theſe Nations; which otherwiſe like an inundation, would break in upon them; upon this account (reſpecting his end, as in all other Changes) is the Lord pleaſed to paſſe them by either as uſeleſſe or obſtructors in his Work: What may be the deſignes or ends of any who are the Inſtruments of this laſt deſſolution; I ſhall leave to the Lord to finde out, who will cauſe the righteouſneſſe of the righteous to ſhine forth as the ſun at noon day, and will reward the workers of iniquity, according to the evill of their doings: Now having taken the ſhort ſurvey of theſe providences and appearances of God, with incurrance with ſcripture (may be of uſe to direct us in this dark day. I ſhal
+<pb n="4" facs="tcp:97232:4"/>apply my ſelf more particularly to you, and from my heart do wiſh for <hi>Sion</hi> and theſe poore Nations ſakes, that we may meet with ſuch an expedient in righteouſneſs, as may re<g ref="char:EOLhyphen"/>concile d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferences, and prevent the effuſion of blood:</p>
+            <p>And therefore, Right Honourable and dear Friends, the Councel of the Officers of the Army in <hi>England,</hi> you are they who more eſpecially then others, have been actually engaged in the great and various turns of State; by you inſtrumentally the foundations are put out of courſe, and the price of the blood and treaſure, ſpilt an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expended in the late Wars, lyes now in your hands; Chriſt calls upon you for his right, as the ſon of <hi>David,</hi> which your power hath poſſeſſed you of; The Saints (for whoſe ſakes the Lord hath reproved all before you) expect that you ſhould not keep them from their purchaſed poſſeſſions; they are the true royal heirs and are now at age; the fulneſſe of time is coming, wherein they muſt take the Kingdome and poſſeſſe it; the poore peild people of theſe Nations, who have fed you with the bread of their Tables, they groan under thoſe burthens which you were hyred to take off them, and are waiting for the travel of their bodies, and the return of their treaſures: Take heed therefore, I beſeech you, that you make not this an opportunity of advantaging and greatning your ſelves; have a care that no remainder of the ſpirit of Apoſtacy raiſe you up to your ruine, as it hath done others before: You are pluckt as brands out of the fire, and are in ſome manner made whole; ſin then no more leaſt a worſe thing befall you; for the tree that is twice dead muſt be pluckt up by the roots, being fit for nothing but the fire; This I will aver to you from the Lord that you have now an opportunity, either (in mercy) of recovering the glory you had loſt by your Apoſtacy or (in judgment) it is an oc<g ref="char:EOLhyphen"/>caſion for your finall fall:</p>
+            <p>Conſider that God is not mocked, his arme hath been bared in Judgment againſt the hypocrites of theſe times, and woe will befall you if you returne with the dog to the vomit; you ſee there is few that can faſten any faith upon you. Beware that your practices Juſtifie not the procee<g ref="char:EOLhyphen"/>dures of thoſe in <hi>Sco<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> for the blood that may be ſpilt
+<pb n="5" facs="tcp:97232:4"/>will then lye at your dores, and the Lord will avenge it u<g ref="char:EOLhyphen"/>pon you, take heed of proportioning your choyce rather to your turns then truths; a little leaven leavens the whole lump; you know what Spirit hath been the bane of your apoſtacy, and the brand of all your practices and Profeſ<g ref="char:EOLhyphen"/>ſions, if you intermix politique time ſerving trucklers, with thoſe who are Publique ſpirits, your Councell will prove abortive; look but a little back, and ſee how the Lord is cut<g ref="char:EOLhyphen"/>ting his work ſhort in righteouſneſs, as it was well obſerved by one, you can now Deceive none but your ſelves; I wiſh you may deceive them by well doing, all the Promiſes Pro<g ref="char:EOLhyphen"/>feſſions and proteſtations you can make, will ſignifie nothing, it is only your actions that will honour you</p>
+            <p>A word to Generall <hi>Monck</hi> and the Officers under his Command in <hi>Scotland:</hi> Your Letters and Declarations I have ſeen and ſeriouſly conſidered, and am hartily ſorry for any juſt occaſion, that either may be given you, or which through miſpriſions you may have taken, to make ſuch a breach in the body of the Army<g ref="char:punc">▪</g> I am very much afraid that in this matter you are under a bad influence, though you have a plauſible pretence, and although I wiſh, and ſhall preſs after a right underſtanding betwixt you and the Army in <hi>England,</hi> yet in this your undertaking, I cannot bid you good ſpeed; becauſe by the obſervations I have al<g ref="char:EOLhyphen"/>ready made, whatever you may pretend to the Church of Chriſt; you are unbargued with that Spirit and Intereſt which more Diametrically oppoſes the deſigne of God, in the Exaltation of his Sonn and Sunts; then the preſent poſture of the Army in <hi>England</hi> protends. And therefore (though for my part I cannot altogether excuſe them) they have a prevail<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng advantage againſt you, and though poſſi<g ref="char:EOLhyphen"/>bly not for their own, yet for <hi>Sions</hi> ſake they will be in<g ref="char:EOLhyphen"/>ebled to foile you; I beſeech you there fore to take heed of a pai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted deſigne, and drive not ſo furiouſly againſt the diſpenſation of God, though it be clouded with the weak<g ref="char:EOLhyphen"/>neſſe and failings of the inſtruments, we have great cauſe of jedouſies that there was a faction prevaling in Parlia<g ref="char:EOLhyphen"/>ment which would have proved pernicious to that which
+<pb n="6" facs="tcp:97232:5" rendition="simple:additions"/>muſt prevaile: And although I did not concur with the Armyes proceed in their propoſals for Generall Officers; yet I could neither well approve of their laying ſome ho<g ref="char:EOLhyphen"/>neſt members of the Army aſide, nor of the new conduct appointed; though I was one my ſelfe: The worſt of men imbargued with the diſpenſation of God, (though they have alſo deſignes of their own) will prevaile over thoſe who may be more innocent then themſelves, but in con<g ref="char:EOLhyphen"/>junction with an oppoſite intereſt, I will not make this the caſe in reſpect of perſons, though it may as relating to things; this is a ſhaking overturning diſpenſation as I have premized, and you may obſerve, and it is of very dangerous conſequence, to endeavour upholding any thing that God is throwing down<g ref="char:punc">▪</g> I ſhall therefore conclude with an interpoſitory word to both Councells, and begin between you; As <hi>Abraham</hi> did to <hi>Lot.</hi> You are brethren, why ſhould you diſagree by a good meditation between you the deſigns on either ſide might receive a check, which Conqueſt would Crown their mediums; wherein you might better meet at blowes, you can play no other then your Common Ar<g ref="char:EOLhyphen"/>mies gaim by your conteſts; however take heed of any uni<g ref="char:EOLhyphen"/>on from the rock of Ages, all confederacies ſhort of or a<g ref="char:EOLhyphen"/>gainſt that will be ſhattered to peices; comply with the beſt expedient to that end, and the hearts and hands of the faithfull will be with you, otherwiſe you may be aſſured from the Lord, that another overturne will ſuddenly o<g ref="char:EOLhyphen"/>vertake you, and I queſtion then whether ever you will have an opportunity to cauſe the Nations following to praiſe you; the binding up of this breach is that I very much breath after, I fear there is not ſo much ſincerity on either ſide as can balleſt the blood that may be ſpilt, if you pro<g ref="char:EOLhyphen"/>ceed againſt each other, for my own part in perſuance of that truſt committed to me, I ſhall, endeavour to ſecure the peace of this place, and be ready to comply with and coun<g ref="char:EOLhyphen"/>tenance that, which hath moſt of the image and ſuper<g ref="char:EOLhyphen"/>ſcription of Chriſt upon it; and in the meane time, mourn over your ſinfull ſelfiſh ſpirit which provokes the Lord thus to rend and teare us in pieces.</p>
+            <epigraph>
+               <q>
+                  <p>The Heathen rage and the people imagine a vain thing,</p> 
+                  <bibl>Pſal. 2.1.</bibl>
+               </q>
+               <q>
+                  <p>But kiſſe the Son leaſt he be angry and ye periſh from the way,</p> 
+                  <bibl>Pſal. 2. and laſt.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
